@@ -30,5 +30,10 @@ plt.show()
 # We can be 95% confident that the average miles per gallon for all cars in 1970 is between 16 and 20 miles per gallon.
 # This plot assumes that our data is a random sample of all cars in the US, Europe, and Japan.
 
-#Answer
-# The distribution of miles per gallon is smaller in 1973 compared to 1977.
+"""Answer
+The distribution of miles per gallon is smaller in 1973 compared to 1977."""
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

@@ -53,3 +53,10 @@ plt.show()
 # Get the name column of top 5 players in each cluster
 for cluster in fifa['cluster_labels'].unique():
     print(cluster, fifa[fifa['cluster_labels'] == cluster]['name'].values[:5])
+
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

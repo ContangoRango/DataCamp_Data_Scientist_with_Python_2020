@@ -10,4 +10,10 @@ Line plot
 Scatter plot
 Histogram
 '''
-# scatter plot
+"""Answer
+sscatter plot"""
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

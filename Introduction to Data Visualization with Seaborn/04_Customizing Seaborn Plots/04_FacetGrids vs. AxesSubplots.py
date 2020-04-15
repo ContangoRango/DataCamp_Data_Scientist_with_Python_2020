@@ -34,5 +34,10 @@ print(type_of_g)
 # sns.boxplot()
 # sns.countplot()
 
-# Answer
-# sns.catplot()
+""" Answer
+ sns.catplot()"""
+
+                     """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

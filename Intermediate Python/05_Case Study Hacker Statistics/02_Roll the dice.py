@@ -26,3 +26,10 @@ print(np.random.randint(1, 7))
 
 # Use randint() again
 print(np.random.randint(1, 7))
+
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

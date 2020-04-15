@@ -28,3 +28,9 @@ downstairs = areas[:6]
 
 # Alternative slicing to create upstairs
 upstairs = areas[6:]
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

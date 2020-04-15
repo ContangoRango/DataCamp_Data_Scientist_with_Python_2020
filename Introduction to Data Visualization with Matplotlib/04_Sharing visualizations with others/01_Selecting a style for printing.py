@@ -14,5 +14,10 @@
 # Submit Answer
 # Take Hint (-15 XP)
 
-# ANSWER
-# 'grayscale'
+"""ANSWER
+grayscale"""
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

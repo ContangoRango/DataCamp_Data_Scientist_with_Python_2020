@@ -15,3 +15,9 @@
 
 """Answers
  a is of type float, b is of type str, c is of type bool"""
+
+
+                     """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

@@ -19,3 +19,9 @@ nb_sold_by_date.plot(kind="line")
 
 # Show the plot
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

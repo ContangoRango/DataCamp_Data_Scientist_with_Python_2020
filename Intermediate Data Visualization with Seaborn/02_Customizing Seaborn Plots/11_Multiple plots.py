@@ -20,3 +20,9 @@ ax1.set(xlabel="2 Bedroom Fair Market Rent", xlim=(100,1500))
 
 # Display the plot
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

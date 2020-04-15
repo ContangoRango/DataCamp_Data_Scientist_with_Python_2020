@@ -19,3 +19,9 @@ print(temperatures[temperatures["city"].isin(cities)])
 
 # Subset temperatures_ind using .loc[]
 print(temperatures_ind.loc[cities])
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

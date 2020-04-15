@@ -21,3 +21,9 @@ plt.xlabel('Income (1986 USD)')
 plt.ylabel('CDF')
 plt.legend()
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

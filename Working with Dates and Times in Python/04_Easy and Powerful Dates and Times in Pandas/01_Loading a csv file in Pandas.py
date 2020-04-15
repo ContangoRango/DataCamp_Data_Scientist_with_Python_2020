@@ -20,3 +20,9 @@ rides = pd.read_csv('capital-onebike.csv',
 
 # Print the initial (0th) row
 print(rides.iloc[0])
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

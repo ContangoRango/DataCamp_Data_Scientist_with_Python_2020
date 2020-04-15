@@ -16,3 +16,9 @@ Pmf(income).bar()
 plt.xlabel('Income level')
 plt.ylabel('PMF')
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

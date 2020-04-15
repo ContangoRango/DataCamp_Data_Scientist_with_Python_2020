@@ -24,3 +24,9 @@ print(temperatures_ind.reset_index())
 
 # Reset the index, dropping its contents
 print(temperatures_ind.reset_index(drop=True))
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

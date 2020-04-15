@@ -16,3 +16,8 @@
 
 """ANSWER"""
 """learning_rate"""
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

@@ -19,3 +19,9 @@ temp_by_country_city_vs_year = temperatures.pivot_table("avg_temp_c", index = ["
 
 # See the result
 print(temp_by_country_city_vs_year)
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

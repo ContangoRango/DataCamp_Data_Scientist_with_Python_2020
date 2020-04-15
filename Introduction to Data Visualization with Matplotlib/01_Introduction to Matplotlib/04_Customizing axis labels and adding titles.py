@@ -26,3 +26,8 @@ ax.set_title("Weather patterns in Austin and Seattle")
 
 # Display the figure
 plt.show()
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

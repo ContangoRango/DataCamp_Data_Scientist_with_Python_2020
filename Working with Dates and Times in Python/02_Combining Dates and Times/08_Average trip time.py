@@ -17,3 +17,9 @@ number_of_trips = len(onebike_durations)
   
 # Divide the total duration by the number of trips
 print(total_elapsed_time / number_of_trips)
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

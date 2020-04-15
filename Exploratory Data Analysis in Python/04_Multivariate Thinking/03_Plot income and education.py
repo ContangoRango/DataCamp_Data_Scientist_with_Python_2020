@@ -23,3 +23,9 @@ plt.plot(mean_income_by_educ, 'o', alpha=0.5)
 plt.xlabel('Education (years)')
 plt.ylabel('Income (1986 $)')
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

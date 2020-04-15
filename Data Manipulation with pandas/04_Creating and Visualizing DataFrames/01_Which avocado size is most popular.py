@@ -25,3 +25,9 @@ nb_sold_by_size.plot(kind="bar")
 
 # Show the plot
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

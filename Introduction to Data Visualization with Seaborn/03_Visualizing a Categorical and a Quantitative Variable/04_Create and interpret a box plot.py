@@ -34,5 +34,11 @@ plt.show()
 # The 5th percentile of grades among students studying less than 2 hours is 5.0.
 # The median grade among students studying less than 2 hours is 10.0.
 
-#ANSWER
-# The median grade among students studying less than 2 hours is 10.0.
+"""ANSWER
+The median grade among students studying less than 2 hours is 10.0."""
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

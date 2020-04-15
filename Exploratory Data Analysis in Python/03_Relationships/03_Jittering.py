@@ -23,3 +23,9 @@ plt.plot(age, weight, 'o', markersize=5, alpha=0.2)
 plt.xlabel('Age in years')
 plt.ylabel('Weight in kg')
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

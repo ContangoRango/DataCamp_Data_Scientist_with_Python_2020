@@ -18,3 +18,9 @@ sns.scatterplot(x='x_scaled',
                 hue='cluster_labels', 
                 data = comic_con)
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

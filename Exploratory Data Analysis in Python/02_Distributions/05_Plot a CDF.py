@@ -24,3 +24,8 @@ cdf_income.plot()
 plt.xlabel('Income (1986 USD)')
 plt.ylabel('CDF')
 plt.show()
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

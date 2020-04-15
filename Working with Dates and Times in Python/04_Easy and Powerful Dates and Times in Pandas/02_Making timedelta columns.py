@@ -15,3 +15,9 @@ ride_durations = rides['End date'] - rides['Start date']
 rides['Duration'] = ride_durations.dt.total_seconds()
 
 print(rides['Duration'].head())
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

@@ -20,3 +20,8 @@ print(res)
 # Run regression with StatsModels
 results = smf.ols('_VEGESU1 ~ INCOME2', data=brfss).fit()
 print(results.params)
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

@@ -15,5 +15,10 @@
 
 
 
-#ANSWER
-# fig, ax = plt.subplots(3, 2)
+"""ANSWER
+ fig, ax = plt.subplots(3, 2)"""
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

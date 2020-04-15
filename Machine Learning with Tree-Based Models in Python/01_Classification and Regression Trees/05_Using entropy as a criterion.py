@@ -23,3 +23,9 @@ dt_entropy = DecisionTreeClassifier(max_depth=8, criterion='entropy', random_sta
 
 # Fit dt_entropy to the training set
 dt_entropy.fit(X_train, y_train)
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

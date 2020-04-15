@@ -1,22 +1,30 @@
 """=================MCQ=================="""
-'''
-while: warming up
-50xp
-The while loop is like a repeated if statement. The code is executed over and over again, as long as the condition is True. Have another look at its recipe.
 
-while condition :
-    expression
-Can you tell how many printouts the following while loop will do?
+# while: warming up
+# 50xp
+# The while loop is like a repeated if statement. The code is executed over and over again, as long as the condition is True. Have another look at its recipe.
 
-x = 1
-while x < 4 :
-    print(x)
-    x = x + 1
-Possible Answers
-0
-1
-2
-3
-4
-'''
+# while condition :
+#     expression
+# Can you tell how many printouts the following while loop will do?
+
+# x = 1
+# while x < 4 :
+#     print(x)
+#     x = x + 1
+# Possible Answers
+# 0
+# 1
+# 2
 # 3
+# 4
+
+'''
+ANSWER
+ 3
+'''
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

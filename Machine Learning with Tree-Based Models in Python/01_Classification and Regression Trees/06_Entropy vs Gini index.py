@@ -24,3 +24,9 @@ print('Accuracy achieved by using entropy: ', accuracy_entropy)
 
 # Print accuracy_gini
 print('Accuracy achieved by using the gini index: ', accuracy_gini)
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

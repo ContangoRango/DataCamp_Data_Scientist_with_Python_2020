@@ -24,3 +24,9 @@ print(areas.index(20))
 
 # Print out how often 14.5 appears in areas
 print(areas.count(14.5))
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

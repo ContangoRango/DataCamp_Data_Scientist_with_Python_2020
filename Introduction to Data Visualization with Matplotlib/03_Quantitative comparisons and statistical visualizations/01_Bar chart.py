@@ -21,3 +21,9 @@ ax.set_xticklabels(medals.index, rotation=90)
 ax.set_ylabel("Number of medals")
 
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

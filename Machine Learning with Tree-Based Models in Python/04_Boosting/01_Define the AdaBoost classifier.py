@@ -22,3 +22,9 @@ dt = DecisionTreeClassifier(max_depth=2, random_state=1)
 
 # Instantiate ada
 ada = AdaBoostClassifier(base_estimator=dt, n_estimators=180, random_state=1)
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

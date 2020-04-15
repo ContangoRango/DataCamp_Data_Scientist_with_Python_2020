@@ -14,3 +14,9 @@ grouped = rides.groupby('Member type')\
 
 # Print the median duration for each group
 print(grouped['Duration'].median())
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

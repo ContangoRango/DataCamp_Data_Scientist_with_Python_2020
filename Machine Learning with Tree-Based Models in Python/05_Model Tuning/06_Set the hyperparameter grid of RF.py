@@ -17,3 +17,10 @@ params_rf = {
              'max_features': ['log2', 'auto', 'sqrt'],
              'min_samples_leaf': [2, 10, 30], 
              }
+
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

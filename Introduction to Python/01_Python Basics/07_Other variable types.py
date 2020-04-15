@@ -19,3 +19,9 @@ desc = "compound interest"
 
 # Create a variable profitable
 profitable = True
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

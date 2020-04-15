@@ -22,3 +22,9 @@ print(mean, std)
 # Make a norm object
 from scipy.stats import norm
 dist = norm(mean, std)
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

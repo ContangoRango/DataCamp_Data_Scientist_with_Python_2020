@@ -19,3 +19,9 @@ for trip in onebike_datetimes[:10]:
   # Update trip['start'] and trip['end']
   trip['start'] = trip['start'].replace(tzinfo = et)
   trip['end'] = trip['end'].replace(tzinfo = et)
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

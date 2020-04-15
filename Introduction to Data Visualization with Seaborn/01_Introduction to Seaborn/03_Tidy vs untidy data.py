@@ -31,5 +31,11 @@ print(df.head())
 # No, because a single column contains different types of information.
 
 
-#ANSWER
-# No, because a single column contains different types of information.
+"""ANSWER
+ No, because a single column contains different types of information."""
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

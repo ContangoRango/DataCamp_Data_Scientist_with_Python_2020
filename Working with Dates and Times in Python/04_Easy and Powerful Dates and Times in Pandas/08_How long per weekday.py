@@ -11,3 +11,9 @@ rides['Ride start weekday'] = rides['Start date'].dt.weekday_name
 
 # Print the median trip time per weekday
 print(rides.groupby('Ride start weekday')['Duration'].median())
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

@@ -20,3 +20,9 @@ dt = DecisionTreeClassifier(random_state=1)
 
 # Instantiate bc
 bc = BaggingClassifier(base_estimator=dt, n_estimators=50, random_state=1)
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

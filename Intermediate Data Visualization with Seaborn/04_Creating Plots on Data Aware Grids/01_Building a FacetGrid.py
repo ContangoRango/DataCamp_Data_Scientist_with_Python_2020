@@ -24,3 +24,9 @@ g2.map(sns.pointplot, 'SAT_AVG_ALL')
 # Show the plot
 plt.show()
 plt.clf()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

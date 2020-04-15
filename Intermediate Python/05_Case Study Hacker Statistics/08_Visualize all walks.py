@@ -49,3 +49,9 @@ np_aw_t = np.transpose(np_aw)
 # Plot np_aw_t and show
 plt.plot(np_aw_t)
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

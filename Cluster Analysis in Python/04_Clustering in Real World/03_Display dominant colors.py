@@ -29,3 +29,9 @@ for cluster_center in cluster_centers:
 # Display colors of cluster centers
 plt.imshow([colors])
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

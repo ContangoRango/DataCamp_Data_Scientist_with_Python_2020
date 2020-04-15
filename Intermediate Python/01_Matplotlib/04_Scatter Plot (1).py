@@ -31,3 +31,8 @@ plt.xscale('log')
 
 # Show plot
 plt.show()
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

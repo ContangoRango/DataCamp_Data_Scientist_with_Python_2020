@@ -17,3 +17,8 @@ Answers
 
 Reduce features using a technique like Factor Analysis"""
 
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

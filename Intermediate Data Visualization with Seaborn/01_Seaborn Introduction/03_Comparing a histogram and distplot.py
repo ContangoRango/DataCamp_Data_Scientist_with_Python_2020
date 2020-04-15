@@ -24,3 +24,9 @@ plt.show()
 
 # Clear the distplot
 plt.clf()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

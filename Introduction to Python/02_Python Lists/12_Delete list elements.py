@@ -45,3 +45,10 @@ areas = ["hallway", 11.25, "kitchen", 18.0,
          "garage", 15.45]
 
 # del(areas[-4:-2])
+
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

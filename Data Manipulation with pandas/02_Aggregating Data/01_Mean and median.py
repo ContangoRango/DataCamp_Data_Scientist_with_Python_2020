@@ -21,3 +21,9 @@ print(sales["weekly_sales"].mean())
 
 # Print the median of weekly_sales
 print(sales["weekly_sales"].median())
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

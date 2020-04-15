@@ -20,3 +20,9 @@ y_pred = bc.predict(X_test)
 # Evaluate acc_test
 acc_test = accuracy_score(y_test, y_pred)
 print('Test set accuracy of bc: {:.2f}'.format(acc_test))
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

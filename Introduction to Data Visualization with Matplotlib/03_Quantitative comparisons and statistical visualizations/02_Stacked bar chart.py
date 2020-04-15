@@ -23,3 +23,9 @@ ax.bar(medals.index, medals["Bronze"], bottom=medals["Gold"] + medals["Silver"],
 ax.legend()
 
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

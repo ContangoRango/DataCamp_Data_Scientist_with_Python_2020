@@ -25,3 +25,8 @@ print("The median duration overall was {:.2f} seconds"\
 # Median of joyrides
 print("The median duration for joyrides was {:.2f} seconds"\
       .format(rides[joyrides]['Duration'].median()))
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

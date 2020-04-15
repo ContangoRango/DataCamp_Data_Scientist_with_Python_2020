@@ -27,3 +27,9 @@ bc = BaggingClassifier(base_estimator=dt,
                        n_estimators=50,
                        oob_score=True,
                        random_state=1)
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

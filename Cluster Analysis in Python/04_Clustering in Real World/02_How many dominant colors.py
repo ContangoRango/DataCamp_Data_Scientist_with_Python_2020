@@ -28,3 +28,10 @@ elbow_plot = pd.DataFrame({'num_clusters': num_clusters, 'distortions': distorti
 sns.lineplot(x='num_clusters', y='distortions', data = elbow_plot)
 plt.xticks(num_clusters)
 plt.show()
+
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

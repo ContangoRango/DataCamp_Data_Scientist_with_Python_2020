@@ -31,3 +31,8 @@ rides.resample('M', on = 'Start date')\
 
 # Show the results
 plt.show()
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

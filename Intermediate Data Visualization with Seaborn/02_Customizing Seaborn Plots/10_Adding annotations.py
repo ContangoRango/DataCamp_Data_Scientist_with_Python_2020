@@ -23,3 +23,9 @@ ax.axvline(x=mean, color='b', label='Mean', linestyle='-', linewidth=2)
 # Show the legend and plot the data
 ax.legend()
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

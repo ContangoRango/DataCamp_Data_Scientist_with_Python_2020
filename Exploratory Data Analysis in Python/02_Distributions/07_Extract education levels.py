@@ -21,3 +21,9 @@ assc = (educ >= 14) & (educ < 16)
 # High school
 high = (educ <= 12)
 print(high.mean())
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

@@ -42,3 +42,9 @@ conversion = np.array([0.0254, 0.453592, 1.0])
 
 # Print out product of np_baseball and conversion
 print(np_baseball * conversion)
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

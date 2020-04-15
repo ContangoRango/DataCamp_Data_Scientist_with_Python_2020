@@ -36,3 +36,9 @@ Cdf(log_income).plot()
 plt.xlabel('log10 of realinc')
 plt.ylabel('CDF')
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

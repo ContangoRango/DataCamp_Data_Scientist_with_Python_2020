@@ -22,3 +22,8 @@ sgbr = GradientBoostingRegressor(max_depth=4,
                                  max_features=0.75,
                                  n_estimators=200,                                
                                  random_state=2)
+                    
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

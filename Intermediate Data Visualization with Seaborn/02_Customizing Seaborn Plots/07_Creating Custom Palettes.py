@@ -22,3 +22,9 @@ plt.show()
 # Create the coolwarm palette
 sns.palplot(sns.color_palette("coolwarm", 6))
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

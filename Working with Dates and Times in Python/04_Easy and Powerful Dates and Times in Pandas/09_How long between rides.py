@@ -20,3 +20,9 @@ monthly = rides.resample('M', on = 'Start date')
 
 # Print the average hours between rides each month
 print(monthly['Time since'].mean()/(60*60))
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

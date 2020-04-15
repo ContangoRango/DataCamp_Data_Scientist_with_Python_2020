@@ -16,3 +16,9 @@ print(temperatures_srt.loc[:, "date":"avg_temp_c"])
 
 # Subset in both directions at once
 print(temperatures_srt.loc[("India", "Hyderabad"):("Iraq", "Baghdad"), "date":"avg_temp_c"])
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

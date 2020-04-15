@@ -22,3 +22,9 @@ sns.countplot(x="Spiders", data=df)
 
 # Display the plot
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

@@ -97,3 +97,10 @@ plt.xlabel('Age')
 plt.ylabel('Probability of favoring legalization')
 plt.legend()
 plt.show()
+
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

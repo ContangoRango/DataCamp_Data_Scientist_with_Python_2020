@@ -18,3 +18,9 @@ ax.set_xlabel("CO2 (ppm)")
 ax.set_ylabel("Relative temperature (C)")
 
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

@@ -37,3 +37,9 @@ for x in range(100) :
     random_walk.append(step)
 
 print(random_walk)
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

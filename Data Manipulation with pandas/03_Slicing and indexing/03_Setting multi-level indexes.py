@@ -20,3 +20,9 @@ rows_to_keep = [("Brazil", "Rio De Janeiro"), ("Pakistan", "Lahore")]
 
 # Subset for rows to keep
 print(temperatures_ind.loc[rows_to_keep])
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

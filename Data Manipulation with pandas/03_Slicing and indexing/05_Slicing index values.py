@@ -30,3 +30,9 @@ print(temperatures_srt.loc["Lahore":"Moscow"])
 
 # Subset rows from Pakistan, Lahore to Russia, Moscow
 print(temperatures_srt.loc[("Pakistan", "Lahore"):("Russia", "Moscow")])
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

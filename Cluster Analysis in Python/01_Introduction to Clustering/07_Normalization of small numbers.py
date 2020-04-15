@@ -20,3 +20,9 @@ plt.plot(scaled_data, label='scaled')
 
 plt.legend()
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

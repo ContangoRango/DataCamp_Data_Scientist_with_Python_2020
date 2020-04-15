@@ -22,3 +22,9 @@ ax.set_xlabel("Weight (kg)")
 ax.set_ylabel("# of observations")
 
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

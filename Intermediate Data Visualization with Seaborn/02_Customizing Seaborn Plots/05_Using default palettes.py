@@ -15,3 +15,10 @@ for p in ['bright', 'colorblind']:
     
     # Clear the plots
     plt.clf()
+
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

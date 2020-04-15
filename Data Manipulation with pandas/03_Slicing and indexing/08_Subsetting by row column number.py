@@ -24,3 +24,9 @@ print(temperatures.iloc[:, 2:4])
 
 # Use slicing in both directions at once
 print(temperatures.iloc[:5, 2:4])
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

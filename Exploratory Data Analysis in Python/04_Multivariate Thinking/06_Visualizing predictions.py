@@ -22,3 +22,9 @@ plt.xlabel('Education (years)')
 plt.ylabel('Income (1986 $)')
 plt.legend()
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

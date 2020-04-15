@@ -16,3 +16,9 @@ results = smf.ols('realinc ~ educ + educ2 + age + age2', data=gss).fit()
 
 # Print the estimated parameters
 print(results.params)
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

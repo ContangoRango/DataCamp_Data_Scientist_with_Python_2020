@@ -20,3 +20,9 @@ comic_con.plot.scatter(x = 'x_scaled',
                 	   y = 'y_scaled',
                        c = comic_con['cluster_labels'].apply(lambda x: colors[x]))
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

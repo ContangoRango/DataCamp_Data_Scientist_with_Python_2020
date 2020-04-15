@@ -42,3 +42,9 @@ for x in  range(100):
 
 # Print random_walk
 print(random_walk)
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

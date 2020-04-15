@@ -33,3 +33,9 @@ sns.scatterplot(x="absences", y="G3",
 
 # Show plot
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

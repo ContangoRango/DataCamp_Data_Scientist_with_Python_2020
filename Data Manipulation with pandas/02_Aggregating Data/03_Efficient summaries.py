@@ -33,3 +33,9 @@ def iqr(column):
 
 # Update to print IQR and median of temperature_c, fuel_price_usd_per_l, & unemployment
 print(sales[["temperature_c", "fuel_price_usd_per_l", "unemployment"]].agg([iqr, np.median]))
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

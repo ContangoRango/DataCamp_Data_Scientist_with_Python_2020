@@ -32,3 +32,9 @@ pmf_age.bar()
 plt.xlabel('Age')
 plt.ylabel('PMF')
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

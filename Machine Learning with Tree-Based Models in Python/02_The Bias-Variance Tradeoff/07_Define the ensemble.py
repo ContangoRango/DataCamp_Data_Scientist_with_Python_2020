@@ -27,3 +27,9 @@ dt = DecisionTreeClassifier(min_samples_leaf=0.13, random_state=SEED)
 
 # Define the list classifiers
 classifiers = [('Logistic Regression', lr), ('K Nearest Neighbours', knn), ('Classification Tree', dt)]
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

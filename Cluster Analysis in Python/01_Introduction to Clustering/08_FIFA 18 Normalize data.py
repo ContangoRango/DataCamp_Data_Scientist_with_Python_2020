@@ -37,3 +37,10 @@ plt.show()
 
 # Check mean and standard deviation of scaled values
 print(fifa[['scaled_wage', 'scaled_value']].describe())
+
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

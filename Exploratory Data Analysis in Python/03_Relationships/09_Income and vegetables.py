@@ -18,3 +18,9 @@ ys = subset['_VEGESU1']
 # Compute the linear regression
 res = linregress(xs, ys)
 print(res)
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

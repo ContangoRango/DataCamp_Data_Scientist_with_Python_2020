@@ -26,3 +26,9 @@ comic_con['cluster_labels'], distortion_list = vq(comic_con[['x_scaled', 'y_scal
 sns.scatterplot(x='x_scaled', y='y_scaled', 
                 hue='cluster_labels', data = comic_con)
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

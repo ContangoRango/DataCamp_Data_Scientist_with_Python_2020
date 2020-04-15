@@ -15,3 +15,9 @@ fig.savefig('my_figure.png')
 """Save the figure into the file my_figure_300dpi.png and set the resolution to 300 dpi."""
 # Save as a PNG file with 300 dpi
 fig.savefig('my_figure_300dpi.png', dpi=300)
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

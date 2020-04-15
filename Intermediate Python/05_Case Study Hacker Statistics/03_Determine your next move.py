@@ -36,3 +36,9 @@ else :
 # Print out dice and step
 print(dice)
 print(step)
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

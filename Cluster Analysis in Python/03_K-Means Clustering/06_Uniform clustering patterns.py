@@ -29,3 +29,10 @@ mouse['cluster_labels'], distortion_list = vq(mouse[['x_scaled', 'y_scaled']], c
 sns.scatterplot(x='x_scaled', y='y_scaled', 
                 hue='cluster_labels', data = mouse)
 plt.show()
+
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

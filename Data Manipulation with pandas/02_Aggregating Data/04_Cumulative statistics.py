@@ -21,3 +21,9 @@ sales_1_1["cum_max_sales"] = sales_1_1["weekly_sales"].cummax()
 
 # See the columns you calculated
 print(sales_1_1[["date", "weekly_sales", "cum_weekly_sales", "cum_max_sales"]])
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

@@ -23,3 +23,9 @@ sns.set()
 df['fmr_2'].plot.hist()
 plt.show()
 plt.clf()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

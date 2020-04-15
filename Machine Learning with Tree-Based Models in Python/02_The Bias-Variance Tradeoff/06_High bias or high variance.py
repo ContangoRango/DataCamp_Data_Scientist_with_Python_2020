@@ -17,3 +17,8 @@ Does dt suffer from a high bias or a high variance problem?"""
 """ANSWER
 dt suffers from high bias because RMSE_CV ≈ RMSE_train and both scores are greater than baseline_RMSE.
 """
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

@@ -55,3 +55,10 @@ ends = np.array([ 70,  94,  82,  66, 107,  49,  72, 116,  65,  78,  87,  47,  81
         88,  80,  80,  91,  57,  65])
 
 print(np.count_nonzero(ends >= 60) / len(ends))
+
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

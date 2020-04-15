@@ -25,3 +25,9 @@ print(cars[0:3])
 
 # Print out fourth, fifth and sixth observation
 print(cars[3:6])
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

@@ -26,3 +26,8 @@ np.random.seed(123)
 
 # Generate and print random float
 print(np.random.rand())
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

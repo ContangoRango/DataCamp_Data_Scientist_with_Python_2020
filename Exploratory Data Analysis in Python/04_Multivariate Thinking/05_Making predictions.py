@@ -22,3 +22,9 @@ df['age2'] = df['age']**2
 # Generate and plot the predictions
 pred = results.predict(df)
 print(pred.head())
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

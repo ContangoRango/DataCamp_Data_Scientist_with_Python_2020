@@ -44,3 +44,9 @@ for i in range(250) :
 np_aw_t = np.transpose(np.array(all_walks))
 plt.plot(np_aw_t)
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

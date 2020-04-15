@@ -13,3 +13,9 @@ avocados.plot(x="nb_sold", y="avg_price", kind="scatter", title="Number of avoca
 
 # Show the plot
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

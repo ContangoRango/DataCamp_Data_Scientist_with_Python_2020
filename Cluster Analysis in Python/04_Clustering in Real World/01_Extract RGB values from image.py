@@ -29,3 +29,9 @@ for row in batman_image:
         r.append(temp_r)
         g.append(temp_g)
         b.append(temp_b)
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

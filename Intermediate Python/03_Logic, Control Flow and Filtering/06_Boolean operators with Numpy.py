@@ -27,3 +27,9 @@ print(np.logical_or(my_house > 18.5,
 # Both my_house and your_house smaller than 11
 print(np.logical_and(my_house < 11,
                      your_house < 11))
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

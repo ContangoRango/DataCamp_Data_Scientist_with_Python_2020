@@ -25,3 +25,9 @@ y_pred = vc.predict(X_test)
 # Calculate accuracy score
 accuracy = accuracy_score(y_test, y_pred)
 print('Voting Classifier: {:.3f}'.format(accuracy))
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

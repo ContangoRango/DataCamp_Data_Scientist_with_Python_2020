@@ -59,3 +59,9 @@ print(fifa[['scaled_def', 'scaled_phy', 'cluster_labels']].groupby('cluster_labe
 # Create a scatter plot through seaborn
 sns.scatterplot(x='scaled_def', y='scaled_phy', hue='cluster_labels', data=fifa)
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""

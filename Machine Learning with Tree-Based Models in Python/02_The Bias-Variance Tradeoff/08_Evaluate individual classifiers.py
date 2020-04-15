@@ -25,3 +25,9 @@ for clf_name, clf in classifiers:
   
     # Evaluate clf's accuracy on the test set
     print('{:s} : {:.3f}'.format(clf_name, accuracy))
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github"""
+        """https://github.com/basitaminbhatti"""

@@ -24,3 +24,9 @@ comic_con['cluster_labels'] = fcluster(distance_matrix, 2, criterion='maxclust')
 sns.scatterplot(x='x_scaled', y='y_scaled', 
                 hue='cluster_labels', data = comic_con)
 plt.show()
+
+
+                    """DEVELOPER"""
+                """BasitAminBhatti"""
+                    """Github""""
+        """https://github.com/basitaminbhatti"""
