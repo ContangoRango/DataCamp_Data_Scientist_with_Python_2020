@@ -9,6 +9,16 @@ Instructions 1/2
 1
 2
 Compare "fatal_collisions" to "premiums" by using a scatter plot mapped to a PairGrid()."""
+# Create a PairGrid with a scatter plot for fatal_collisions and premiums
+g = sns.PairGrid(df, vars=["fatal_collisions", "premiums"])
+g2 = g.map(plt.scatter)
+
+plt.show()
+plt.clf()
+
+"""
+Create another PairGrid but plot a histogram on the diagonal and scatter plot on the off diagonal.
+"""
 # Create the same PairGrid but map a histogram on the diag
 g = sns.PairGrid(df, vars=["fatal_collisions", "premiums"])
 g2 = g.map_diag(plt.hist)
@@ -17,7 +27,9 @@ g3 = g2.map_offdiag(plt.scatter)
 plt.show()
 plt.clf()
 
-                    """DEVELOPER"""
-                """BasitAminBhatti"""
-                    """Github""""
-        """https://github.com/basitaminbhatti"""
+#========================================================#
+#                       DEVELOPER                        #
+#                   BasitAminBhatti                      #
+#                        Github                          #
+#           https://github.com/basitaminbhatti           #
+#========================================================#
